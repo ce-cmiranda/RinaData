@@ -1,0 +1,40 @@
+[
+  {
+    "key": "anchoring-bias",
+    "icon": "anchor",
+    "group": "Decision-Making Biases",
+    "translations": {
+      "en": {
+        "title": "Anchoring Bias",
+        "description": "Being overly influenced by the first piece of information seen, even if it's irrelevant."
+      },
+      "es": {
+        "title": "Sesgo de Anclaje",
+        "description": "Confiar demasiado en la primera información encontrada al tomar decisiones, incluso si es irrelevante."
+      },
+      "pt-br": {
+        "title": "Viés de Ancoragem",
+        "description": "Ser excessivamente influenciado pela primeira informação apresentada, mesmo que seja irrelevante."
+      }
+    }
+  },
+  {
+    "key": "availability-heuristic",
+    "icon": "lightbulb",
+    "group": "Decision-Making Biases",
+    "translations": {
+      "en": {
+        "title": "Availability Heuristic",
+        "description": "Making judgments based on information that is most easily recalled, often recent or dramatic events."
+      },
+      "es": {
+        "title": "Heurística de Disponibilidad",
+        "description": "Emitir juicios basándose en la información más fácil de recordar, frecuentemente eventos recientes o impactantes."
+      },
+      "pt-br": {
+        "title": "Heurística de Disponibilidade",
+        "description": "Fazer julgamentos com base nas informações mais facilmente lembradas, geralmente eventos recentes ou dramáticos."
+      }
+    }
+  }
+]
